@@ -1,4 +1,4 @@
-# opennic-openwrt-scripts
+# OpenWRT script for OpenNIC setup
 
 Those two little scripts provide the bare minimum to setup OpenNIC servers on an OpenWRT router:
 * whitelisting of your IP to be able to query Tier 2 servers where whitelisting is enabled,
